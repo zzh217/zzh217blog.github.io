@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 deploy:
   type: git
   repository: https://zzh217.github.io/zzh217blog.github.io
-  branch: gh-pages
+  branch: main
